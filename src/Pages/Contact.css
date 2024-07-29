@@ -1,0 +1,11 @@
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-bottom: 50px;
+    
+}
+.error {
+    color: red;
+    font-size: 0.875em;
+  }
